@@ -1,0 +1,19 @@
+body{
+  background-image:url("https://images.idgesg.net/images/article/2018/03/sims-mobile-lead-100751675-large.jpg");
+ 
+}
+
+
+
+#test{
+    background-color: darkkhaki;
+    color:darkslategray;
+    padding:15px;
+    margin:50px;
+    border:3px solid brown;
+    border-radius:15px;
+    opacity:0.7;
+    box-shadow:3px 3px 7px brown;
+    
+
+}
